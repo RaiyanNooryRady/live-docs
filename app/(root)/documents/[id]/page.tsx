@@ -1,8 +1,10 @@
-import React from 'react'
+import CollaborativeRoom from "@/components/CollaborativeRoom"
 
 const Document = () => {
   return (
-    <div>Document</div>
+    <div>
+      <CollaborativeRoom/>
+    </div>
   )
 }
 
